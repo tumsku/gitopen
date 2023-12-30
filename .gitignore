@@ -1,0 +1,8 @@
+# Suodattaa pois .in-tiedostot
+*.in
+
+# Suodattaa pois .out-tiedostot
+*.out
+
+# Suodattaa pois .pyc-tiedostot
+*.pyc
